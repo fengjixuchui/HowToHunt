@@ -256,6 +256,33 @@
       "contributions": [
         "tutorial"
       ]
+    },
+    {
+      "login": "febinrev",
+      "name": "febinrev",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/52229330?v=4",
+      "profile": "https://github.com/febinrev",
+      "contributions": [
+        "tutorial"
+      ]
+    },
+    {
+      "login": "fatinsourav",
+      "name": "fatinsourav",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/15983667?v=4",
+      "profile": "http://fatinsourav.github.io",
+      "contributions": [
+        "tutorial"
+      ]
+    },
+    {
+      "login": "iNoSec2",
+      "name": "iNoSec2",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/51358868?v=4",
+      "profile": "https://github.com/iNoSec2",
+      "contributions": [
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
