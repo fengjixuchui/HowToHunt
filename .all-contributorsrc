@@ -283,7 +283,106 @@
       "contributions": [
         "tutorial"
       ]
-    }
+    },
+    {
+      "login": "manasjha7",
+      "name": "Manas Harsh",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/33492814?v=4",
+      "profile": "https://github.com/manasjha7",
+      "contributions": [
+        "tutorial"
+      ]
+    },
+    {
+      "login": "0xsunil",
+      "name": "0xsunil",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/60779622?v=4",
+      "profile": "https://github.com/0xsunil",
+      "contributions": [
+        "tutorial"
+      ]
+    },
+    {
+      "login": "deephunt3r",
+      "name": "Rakesh",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/60481830?v=4",
+      "profile": "https://github.com/deephunt3r",
+      "contributions": [
+        "tutorial"
+      ]
+    },
+    {
+      "login": "Pratyaksh06",
+      "name": "Pratyaksh Singh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43118103?v=4",
+      "profile": "https://github.com/Pratyaksh06",
+      "contributions": [
+        "tutorial"
+      ]
+    },
+    {
+      "login": "tamimhasan404",
+      "name": "Tamim Hasan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66991901?v=4",
+      "profile": "https://github.com/tamimhasan404",
+      "contributions": [
+        "tutorial"
+      ]
+    },
+    {
+      "login": "Pratish58",
+      "name": "Pratish58",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51779480?v=4",
+      "profile": "https://github.com/Pratish58",
+      "contributions": [
+        "tutorial"
+      ]
+    },
+    {
+      "login": "klau5dev",
+      "name": "Kalus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70058709?v=4",
+      "profile": "https://github.com/klau5dev",
+      "contributions": [
+        "tutorial"
+      ]
+    },
+    {
+      "login": "Zero0x00",
+      "name": "Zero (Arif)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26040638?v=4",
+      "profile": "https://github.com/Zero0x00",
+      "contributions": [
+        "tutorial"
+      ]
+  },
+    {
+      "login": "Raiders0786",
+      "name": "Chirag Agrawal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68269472?v=4",
+      "profile": "https://chirag-agrawal.medium.com/",
+      "contributions": [
+        "tutorial"
+      ]
+  },
+    {
+      "login": "kushagrasarathe",
+      "name": "Kushagra Sarathe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76868364?v=4",
+      "profile": "https://github.com/kushagrasarathe",
+      "contributions": [
+        "tutorial"
+      ]
+          },
+    {
+      "login": "rtcms",
+      "name": "RT",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35173068?v=4",
+      "profile": "https://github.com/rtcms",
+      "contributions": [
+        "tutorial"
+      ]
+     }
   ],
   "contributorsPerLine": 7,
   "projectName": "HowToHunt",
