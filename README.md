@@ -1,6 +1,6 @@
 # HowToHunt
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-42-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-46-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Some Tutorials and Things to Do while Hunting Particular Vulnerability. 
 
@@ -78,7 +78,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Zero0x00"><img src="https://avatars.githubusercontent.com/u/26040638?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zero (Arif)</b></sub></a><br /><a href="#tutorial-Zero0x00" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://chirag-agrawal.medium.com/"><img src="https://avatars.githubusercontent.com/u/68269472?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chirag Agrawal</b></sub></a><br /><a href="#tutorial-Raiders0786" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/kushagrasarathe"><img src="https://avatars.githubusercontent.com/u/76868364?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kushagra Sarathe</b></sub></a><br /><a href="#tutorial-kushagrasarathe" title="Tutorials">✅</a></td>
-        <td align="center"><a href="https://github.com/rtcms"><img src="https://avatars.githubusercontent.com/u/35173068?v=4?s=100" width="100px;" alt=""/><br /><sub><b>RT</b></sub></a><br /><a href="#tutorial-rtcms" title="Tutorials">✅</a></td>
+    <td align="center"><a href="https://github.com/rtcms"><img src="https://avatars.githubusercontent.com/u/35173068?v=4?s=100" width="100px;" alt=""/><br /><sub><b>RT</b></sub></a><br /><a href="#tutorial-rtcms" title="Tutorials">✅</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://www.anishkashukla.com"><img src="https://avatars.githubusercontent.com/u/35867406?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anishka Shukla</b></sub></a><br /><a href="#tutorial-anishkashukla" title="Tutorials">✅</a></td>
+    <td align="center"><a href="https://bandism.net/"><img src="https://avatars.githubusercontent.com/u/22633385?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ikko Ashimine</b></sub></a><br /><a href="#tutorial-eltociear" title="Tutorials">✅</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/h4r5h1t-hrs/"><img src="https://avatars.githubusercontent.com/u/30245456?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Harshit Raj Singh</b></sub></a><br /><a href="#tutorial-h4r5h1t-hrs" title="Tutorials">✅</a></td>
+    <td align="center"><a href="https://github.com/Sm4rty-1"><img src="https://avatars.githubusercontent.com/u/69345983?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sm4rty-1</b></sub></a><br /><a href="#tutorial-Sm4rty-1" title="Tutorials">✅</a></td>
   </tr>
 </table>
 
